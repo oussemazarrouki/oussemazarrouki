@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oussemazarrouki&label=Profile%20views&color=0e75b6&style=flat" alt="oussemazarrouki" /> </p>
 
-- 🌱 I’m currently practicing **Angular**
+- 🌱 Currently developing my **web** skills 
 
 - 📫 How to reach me **oussemazarrouki01@gmail.com**
 
