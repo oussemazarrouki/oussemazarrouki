@@ -1,4 +1,4 @@
-# Oussema Zarrouki
+# 😆 Oussema Zarrouki
 
 **`Computer science major at ISTIC University`**
 
