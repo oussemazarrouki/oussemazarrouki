@@ -7,7 +7,7 @@
   <p><i>Information Systems Engineering (ISI) @ ENICarthage</i></p>
 
   <p>
-    Building high-performance, secure web applications with a focus on system architecture, database security (PostgreSQL RLS), and modern developer tooling.
+    Building high-performance, secure web applications with a focus on system architecture, database security, and modern developer tooling.
   </p>
 
   <!-- Social & Contact Pill Badges -->
