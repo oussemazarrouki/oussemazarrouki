@@ -14,7 +14,6 @@
   <p>
     <a href="https://linkedin.com/in/oussema-zarrouki"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="mailto:oussemazarrouki01@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-    <a href="https://github.com/oussemazarrouki"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   </p>
 
 </div>
@@ -103,13 +102,5 @@
 
 <div align="center">
   <img src="./profile/stats.svg" height="160" alt="GitHub Stats" />
-  <img src="./profile/top-langs.svg" height="160" alt="Top Languages" />
-</div>
-
-<br />
-
-<div align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=oussemazarrouki&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oussemazarrouki&layout=compact&theme=tokyonight&hide_border=true&hide=html,css,java,shell,powershell,batchfile,xslt&count_private=true" height="160" alt="Top Languages" />
 </div>
