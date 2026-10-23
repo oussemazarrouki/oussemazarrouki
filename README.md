@@ -102,5 +102,5 @@
 
 <div align="center">
   <img src="./profile/stats.svg" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oussemazarrouki&layout=compact&theme=tokyonight&hide_border=true&hide=html,css,java,shell,powershell,batchfile,xslt&count_private=true" height="160" alt="Top Languages" />
+  <img src="./profile/top-langs.svg" height="160" alt="Top Languages" />
 </div>
