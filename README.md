@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1e293b&height=180&section=header&text=Oussema%20Zarrouki&fontSize=42&fontColor=38bdf8&animation=fadeIn" width="100%" alt="Oussema Zarrouki Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1a0408&height=180&section=header&text=Oussema%20Zarrouki&fontSize=42&fontColor=f43f5e&animation=fadeIn" width="100%" alt="Oussema Zarrouki Header" />
 
   <h3>Full-Stack Web Developer & Computer Science Engineering Student</h3>
   <p><i>Information Systems Engineering (ISI) @ ENICarthage</i></p>
