@@ -25,7 +25,7 @@ jobs:
         uses: soulteary/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: "username=oussemazarrouki&layout=compact&theme=tokyonight&hide_border=true&count_private=true"
+          options: "username=oussemazarrouki&layout=compact&theme=tokyonight&hide_border=true&count_private=true&hide=html,css,java,shell,powershell,batchfile,xslt"
           path: profile/top-langs.svg
           token: ${{ secrets.PROFILE_STATS_TOKEN }}
 
@@ -34,5 +34,5 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add profile/
-          git commit -m "Update profile stats" || exit 0
+          git commit -m "Update profile stats with filtered languages" || exit 0
           git push
